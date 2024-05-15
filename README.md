@@ -5,9 +5,9 @@
 
 - 💬 Ask me about **WebDev, Python and Networking.**
 
-- 📫 How to reach me **s.islam213@gmail.com.**
+- 📫 How to reach me **s.islam213@gmail.com**
 
-- 📄 Know about my experiences [sehilsam.netlify.app.](sehilsam.netlify.app.)
+- 📄 Know about my experiences [sehilsam.netlify.app](https://sehilsam.netlify.app)
 
 - ⚡ Fun fact **I love Networking.**
 
