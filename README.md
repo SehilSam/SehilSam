@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **for my CCNA and CCNP.**
 
-- 📝 I regularly write articles on [My Medium.](My Medium.)
-
 - 💬 Ask me about **WebDev, Python and Networking.**
 
 - 📫 How to reach me **s.islam213@gmail.com.**
