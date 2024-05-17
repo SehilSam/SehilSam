@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sam</h1>
+<h1 align="center">Hi 👋, I'm Islam</h1>
 <h3 align="center">A passionate Network Engineer</h3>
 
 - 🌱 I’m currently learning **for my CCNA and CCNP.**
