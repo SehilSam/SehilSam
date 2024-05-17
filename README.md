@@ -5,15 +5,15 @@
 
 - 💬 Ask me about **WebDev, Python and Networking.**
 
-- 📫 How to reach me **s.islam213@gmail.com**
+- 📫 How to reach me **s.sehil213@gmail.com**
 
-- 📄 Know about my experiences [sehilsam.netlify.app](https://sehilsam.netlify.app)
+- 📄 Know about my experiences [sehilislam.netlify.app](https://sehilislam.netlify.app)
 
 - ⚡ Fun fact **I love Networking.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sehilsam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sehilsam" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sehilislam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sehilislam" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
